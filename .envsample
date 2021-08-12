@@ -1,1 +1,2 @@
-dbadress = <SampleMongoDBConnectionString>
+## dbadress = <SampleMongoDBConnectionString>
+A sample adress : mongodb://myDBReader:D1fficultP%40ssw0rd@mongodb0.example.com:27017/?authSource=admin
